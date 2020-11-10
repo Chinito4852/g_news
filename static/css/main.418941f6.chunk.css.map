@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACI,qBACJ,CAEA,UACI,cACJ","file":"main.418941f6.chunk.css","sourcesContent":["body {\r\n    background-color: #EEEEEE;\r\n}\r\n\r\n.card > img {\r\n    max-width: 100%;\r\n}"]}
